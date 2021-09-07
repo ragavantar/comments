@@ -1,0 +1,14 @@
+.comment {
+    min-height: 50px;
+    border: 1px solid #808080;
+    margin-bottom: 10px;
+}
+
+.comment img{
+    width: 50px;
+    float: left;
+}
+
+.comment span{
+    margin: 10px;
+}
